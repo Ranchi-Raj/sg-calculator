@@ -58,7 +58,7 @@ export default function Calc() {
 
   return (
     <div className='flex items-center justify-center h-full min-h-screen'>
-      <Card className="w-1/3">
+      <Card className="">
         <CardHeader>
           <CardTitle className='text-center'>The SG Walle</CardTitle>
           <CardDescription className='text-center'>Calculate your SG easily</CardDescription>
